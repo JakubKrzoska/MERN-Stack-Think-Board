@@ -2,7 +2,7 @@ import React from 'react'
 
 const CreatePage = () => {
   return (
-    <div>CreatePage in progress</div>
+    <div>CreatePage in progress right now</div>
   )
 }
 
